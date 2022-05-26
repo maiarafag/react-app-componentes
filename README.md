@@ -18,7 +18,7 @@
 
 # Objetivo
 <p>
- Pesquisar username do usuário e mostrarseu perfil no GitHub
+ Pesquisar username do usuário e mostrar seu perfil no GitHub
 </p>
 
 # Tecnologias
