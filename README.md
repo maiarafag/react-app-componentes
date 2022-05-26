@@ -14,7 +14,7 @@
 </p>
 
 # Sobre
-<p>nterface feita com React App para GitHub  </p>
+<p>Interface feita com React App para GitHub  </p>
 
 # Objetivo
 <p>
