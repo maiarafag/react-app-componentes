@@ -1,8 +1,8 @@
 {
   "name": "github-api",
   "version": "0.1.0",
-  "homepage": "https://maiarafag.github.io/react-app-componentes",
   "private": true,
+  "homepage": "https://maiarafag.github.io/react-app-componentes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
