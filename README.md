@@ -29,5 +29,5 @@
 # Resultado
 
 <h1 align="center">
-  <img alt="Portfólio" title="#Portfólio" src="./assets/img.png" />
+  <img alt="Portfólio" title="#Portfólio" src="./img.png" />
 </h1>
