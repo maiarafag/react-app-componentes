@@ -12,7 +12,7 @@
 # Tecnologias
 <p>Foi usado na construção do projeto:
 
-- [Reat](https://pt-br.reactjs.org/)
+- [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://www.w3schools.com/javascript/)
 - [HTML](https://www.w3schools.com/html/)
 
@@ -29,5 +29,5 @@
 # Resultado
 
 <h1 align="center">
-  <img alt="Portfólio" title="#Portfólio" src="./img.png" />
+  <img alt="Search" title="#Search" src="./img.png" />
 </h1>
